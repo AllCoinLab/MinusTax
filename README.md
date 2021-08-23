@@ -56,11 +56,12 @@ These days other tokens have buy/sell fee both with more than 10%.
 Regarding the incentive for the buy,    
 20% sell fee seems reasonable. imo, more sell fee needed.  
 
-# Opinion
-I think it is,
-Simple and Intuitive Project.
-Easy to understand and can be acknowledged by people.
+# Implementation Difficulty
+Low
 
-implementation difficulty: Low
+# Opinion
+I think it is,  
+Simple and Intuitive Project.  
+Easy to understand and can be acknowledged by people.  
 
 Thank you
