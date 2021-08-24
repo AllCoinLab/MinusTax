@@ -5,6 +5,9 @@ But I will write down in detail regarding limitation of the text
 
 # MinusTax
 
+# Introduction of myself
+https://github.com/AllCoinLab
+
 # Feature
 Tax is Minus.
 
